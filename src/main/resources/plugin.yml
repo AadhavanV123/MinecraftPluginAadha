@@ -1,0 +1,10 @@
+name: ServerPlugins
+version: ${project.version}
+main: com.aadha.serverplugins.ServerPlugins
+api-version: 1.17
+authors: [ SkeppyIsBadAtPVP ]
+description: This is Property of SkeppyIsBadAtPVP
+commands:
+  setrank:
+    description: Sets a rank to a player
+    aliases: [sr]
